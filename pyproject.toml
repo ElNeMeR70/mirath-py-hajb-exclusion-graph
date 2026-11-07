@@ -1,0 +1,7 @@
+[project]
+name = "mirath-py-hajb-exclusion-graph"
+version = "1.0.0"
+description = "Hajb Hirman (Total Exclusion) & Hajb Nuqsan Graph Eliminator (مصفوفة الحجب حرماناً ونقصاناً بين الورثة)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
